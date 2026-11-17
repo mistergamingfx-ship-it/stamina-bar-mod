@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "staminabar",
+    "name": "Stamina Bar",
+    "description": "Adds a stamina bar with sprint drain, jump cost and recovery.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["You"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
